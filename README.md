@@ -1,6 +1,3 @@
-Perfect — thanks for the data about Knot. Here’s a clean, professional README.md you can directly use for your repo:
-
-⸻
 
 🎓 Knot – Alumni Management System
 
